@@ -19,7 +19,7 @@ Junaidnasir\GlobalSettings\GlobalSettingsServiceProvider::class
 you may add the facade access in the aliases array:
 
 ```php
-'GlobalSettings'  => Junaidnasir\GlobalSettingsLO\Facades\GlobalSettings::class
+'GlobalSettings'  => Junaidnasir\GlobalSettings\Facades\GlobalSettings::class
 ```
 
 publish the migration and config file:
